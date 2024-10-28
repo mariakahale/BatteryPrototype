@@ -1,4 +1,4 @@
-# BatteryPrototype
+# BatteryPrototype UTWind
 Archive of resources used for battery prototype for competition #2.
 
 Development phase:
